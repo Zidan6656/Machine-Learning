@@ -127,7 +127,7 @@ jupyter notebook
 
 ## 👤 Author
 
-Nama: Muhammad Zidan
+Nama: Muhammad Zidan,
 Program Studi: (Data Science)
 
 ---
